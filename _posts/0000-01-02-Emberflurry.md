@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"They call me **oedipus** because im a steezy *mf*"
 Use the left arrow to go back!
